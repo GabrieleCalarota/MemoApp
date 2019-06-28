@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="edit_message">Enter a text</string>
+    <string name="button_save">Save</string>
+    <string name="button_send">Send</string>
+    <string name="button_edit">Edit</string>
+    <string name="selected_message">Selected</string>
+    <string name="deleted">deleted successfully</string>
+    <string name="button_read">Read</string>
+    <string name="file_name_message">Enter file name</string>
+    <string name="saved_message"> saved</string>
+    <string name="show_file">Show File</string>
+    <string name="error_message">File not found</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_load">Load</string>
+    <string name="empty_dir">There\'s no file available</string>
+    <string name="delete_none">No file selected</string>
+    <string name="last_edit">Last edit: </string>
+    <string name ="save_alertdialog"> already exists. Do you want to overwrite it?</string>
+    <string name = "yes">Yes</string>
+    <string name = "no">No</string>
+    <string name = "cancel">Cancel</string>
+    <string name = "default_save">Save as </string>
+    <string name = "messageunsaved_alertdialog">Changes have not been saved. Are you sure you want to leave the page?</string>
+    <string name = "careful_message">Careful!</string>
+    <string name = "delete_alertdialog">Are you sure you want to delete </string>
+    <string name = "overwrite_message"> overwritten</string>
+    <string name="empty_message">ERROR: Empty file</string>
+    <string name="no_file_name">ERROR: File name missing</string>
+</resources>

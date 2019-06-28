@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="edit_message">Inserisci il testo</string>
+    <string name="button_send">Invia</string>
+    <string name="button_save">Salva</string>
+    <string name="button_delete">Elimina</string>
+    <string name="button_read">Leggi</string>
+    <string name="file_name_message">Inserisci il nome del file</string>
+    <string name="saved_message">" salvato"</string>
+    <string name="show_file">Mostra File</string>
+    <string name="error_message">File non trovato</string>
+    <string name="button_load">Carica</string>
+    <string name="button_edit">Modifica</string>
+    <string name="selected_message">Selezionato</string>
+    <string name="deleted">Eliminato con successo</string>
+    <string name="empty_dir">Non c\'è nessun file disponibile</string>
+    <string name="no_file_name">ERRORE: Nome file mancante</string>
+    <string name="empty_message">File vuoto</string>
+    <string name="prova"></string>
+    <string name="delete_none">Nessun file selezionato</string>
+    <string name="last_edit">"Ultima modifica: "</string>
+    <string name="save_alertdialog">" esiste già. Vuoi sovrascriverlo?"</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="careful_message">Attenzione!</string>
+    <string name="delete_alertdialog">"Sei sicuro di voler eliminare "</string>
+    <string name="overwrite_message">" sovrascritto"</string>
+    <string name="default_save">"Salva come "</string>
+    <string name="messageunsaved_alertdialog">Le modifiche non sono state salvate. Sei sicuro di uscire dalla pagina?</string>
+    <string name="cancel">Annulla</string>
+</resources>
