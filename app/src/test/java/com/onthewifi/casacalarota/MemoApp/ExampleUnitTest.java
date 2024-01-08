@@ -1,4 +1,4 @@
-package com.example.gabriele.prova_app;
+package com.onthewifi.casacalarota.MemoApp;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package com.example.gabriele.prova_app;
+package com.onthewifi.casacalarota.MemoApp;
 
 import android.content.Context;
 import androidx.test.platform.app.InstrumentationRegistry;

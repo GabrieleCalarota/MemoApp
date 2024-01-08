@@ -1,21 +1,16 @@
-package com.example.gabriele.prova_app;
+package com.onthewifi.casacalarota.MemoApp;
 
 import android.app.Activity;
 import android.content.DialogInterface;
 import android.content.Intent;
 import androidx.appcompat.app.AlertDialog;
-import androidx.appcompat.app.AppCompatActivity;
+
 import android.os.Bundle;
 import android.text.method.ScrollingMovementMethod;
-import android.util.Log;
-import android.view.MotionEvent;
 import android.view.View;
-import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.Button;
-import android.widget.ListAdapter;
-import android.widget.ListView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -29,13 +24,8 @@ import java.io.InputStreamReader;
 import java.util.Collections;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Timer;
-import java.util.TimerTask;
 
-import static android.R.attr.id;
-import static android.R.attr.name;
-import static android.provider.AlarmClock.EXTRA_MESSAGE;
-import static com.example.gabriele.prova_app.MainActivity.*;
+import static com.onthewifi.casacalarota.MemoApp.MainActivity.*;
 
 public class DisplayMessageActivity extends Activity implements AdapterView.OnItemSelectedListener {
     Spinner dropdown;
