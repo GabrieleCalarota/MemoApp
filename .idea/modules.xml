@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Prova_app.iml" filepath="$PROJECT_DIR$/Prova_app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MemoApp.iml" filepath="$PROJECT_DIR$/.idea/modules/MemoApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoApp.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoApp.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoApp.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoApp.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoApp.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoApp.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MemoApp.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MemoApp.app.unitTest.iml" />
     </modules>
   </component>
 </project>
